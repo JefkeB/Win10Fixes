@@ -1,0 +1,8 @@
+Windows Registry Editor Version 5.00
+[-HKEY_CLASSES_ROOT\CompressedFolder\CLSID]
+
+[-HKEY_CLASSES_ROOT\SystemFileAssociations\.zip\CLSID]
+
+[-HKEY_CLASSES_ROOT\CABFolder\CLSID]
+
+[-HKEY_CLASSES_ROOT\SystemFileAssociations\.cab\CLSID]
