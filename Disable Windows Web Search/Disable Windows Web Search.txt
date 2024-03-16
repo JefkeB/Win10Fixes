@@ -1,0 +1,7 @@
+Registry
+
+HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows
+Create a new key called Explorer 
+Create a new DWORD (32-bit) registry key with name DisableSearchBoxSuggestions
+Set key value to 1
+reboot
